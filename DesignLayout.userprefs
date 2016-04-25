@@ -1,0 +1,15 @@
+﻿<Properties StartupItem="DesignLayout/DesignLayout.csproj" RefactoringSettings.EnableRefactorings="True">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean 4.1.1)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="DesignLayout/SwipeRefreshActivity.cs">
+    <Files>
+      <File FileName="DesignLayout/CoordinatorLayoutActivity.cs" Line="37" Column="5" />
+      <File FileName="DesignLayout/ContentFragment.cs" Line="24" Column="4" />
+      <File FileName="DesignLayout/SwipeRefreshActivity.cs" Line="33" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.DesignLayout AndroidDesignerPreferredDevice="Nexus 4" />
+</Properties>

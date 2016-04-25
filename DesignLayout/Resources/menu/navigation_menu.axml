@@ -1,0 +1,14 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<group android:checkableBehavior="single">
+		<item android:id="@+id/nav_home" android:icon="@drawable/ic_dashboard" android:title="SwipeRefreshLayout" />
+		<item android:id="@+id/nav_friends" android:icon="@drawable/ic_headset" android:title="CollapsingToolbarLayout" />
+		<item android:id="@+id/nav_discussion" android:icon="@drawable/ic_discuss" android:title="Discussion" />
+	</group>
+	<item android:title="CoordinatorLayout">
+		<menu>
+			<item android:id="@+id/coordinator_layout" android:icon="@drawable/ic_dashboard" android:title="Layout" />
+			<item android:id="@+id/coordinator_behavior" android:icon="@drawable/ic_discuss" android:title="Behavior" />
+		</menu>
+	</item>
+</menu>
